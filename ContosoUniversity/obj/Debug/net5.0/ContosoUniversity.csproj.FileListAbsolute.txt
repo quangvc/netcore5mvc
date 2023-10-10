@@ -176,3 +176,4 @@ F:\netcore\aspnetcore5mvc\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\R
 F:\netcore\aspnetcore5mvc\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 F:\netcore\aspnetcore5mvc\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
 F:\netcore\aspnetcore5mvc\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+F:\netcore\aspnetcore5mvc\ContosoUniversity\ContosoUniversity\bin\Debug\net5.0\global.json
